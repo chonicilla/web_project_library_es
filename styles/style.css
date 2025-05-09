@@ -355,12 +355,6 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-/*   */
-.footer__column_list-items {
-  display: flex;
-  flex-direction: row;
-  gap: 80px;
-}
 
 .footer__column {
 
@@ -388,9 +382,6 @@ body {
 .footer__logo {
   width: 58px;
   height: 80px;
-}
-
-.footer__column-heading {
 }
 
 .footer__list {
