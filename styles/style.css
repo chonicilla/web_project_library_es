@@ -126,7 +126,7 @@ body {
   margin-top: 68px;
   display: flex;
   flex-wrap: wrap;
-  gap: 40px;
+  column-gap: 40px;
   justify-content: space-between;
   list-style-type: none;
   padding: 0;
